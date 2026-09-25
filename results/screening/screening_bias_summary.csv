@@ -1,0 +1,5 @@
+"comparison","subset","spearman_rho","p_value"
+"Vina score vs molecular weight","All compounds",0.495094443368616,3.60977424024064e-92
+"Vina score vs rotatable bonds","All compounds",-0.0629972935548175,0.0154586285201388
+"Vina score vs molecular weight","Negative Vina scores",0.272027432396657,NA
+"Vina score vs molecular weight","Top 10%",0.0290688796405131,NA

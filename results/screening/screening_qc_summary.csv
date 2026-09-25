@@ -1,0 +1,10 @@
+"metric","value"
+"Total compounds",1477
+"Completed",1477
+"Missing scores",0
+"Duplicated ChEMBL IDs",0
+"Negative scores",1194
+"Positive scores",283
+"Minimum Vina score",-10.178
+"Median Vina score",-5.053
+"Maximum Vina score",112.657
